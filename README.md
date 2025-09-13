@@ -1,4 +1,3 @@
-````markdown
 # Book Review App
 
 A Flutter app for discovering books, writing reviews, and saving favorites.
@@ -12,7 +11,7 @@ A Flutter app for discovering books, writing reviews, and saving favorites.
 ## Getting Started
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/book-review-app.git
+   git clone https://github.com/hemengirmaa/book-review-app.git
 ````
 
 2. Install dependencies
@@ -27,5 +26,3 @@ A Flutter app for discovering books, writing reviews, and saving favorites.
    ```
 
 
-👉 Do you want me to make the **Passphrase App README** match this exact style too?
-```
