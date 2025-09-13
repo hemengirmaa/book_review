@@ -1,16 +1,31 @@
-# book_review
+````markdown
+# Book Review App
 
-A new Flutter project.
+A Flutter app for discovering books, writing reviews, and saving favorites.
+
+## Features
+- User signup/login  
+- Browse and search books  
+- Add reviews and comments  
+- Save books to profile  
 
 ## Getting Started
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/your-username/book-review-app.git
+````
 
-This project is a starting point for a Flutter application.
+2. Install dependencies
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   flutter pub get
+   ```
+3. Run the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+👉 Do you want me to make the **Passphrase App README** match this exact style too?
+```
